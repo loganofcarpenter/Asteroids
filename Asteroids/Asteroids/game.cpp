@@ -5,7 +5,7 @@
  * This file is provided as the instructor's "half" of the project.
  *
  * Please DO NOT provide, share, or distribute this file to students
- * of other sections or semesters.
+ * of other sections or semesters..
  *********************************************************************/
 
 #include "game.h"
